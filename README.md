@@ -1,70 +1,26 @@
-# Hi, I'm Santhosh Sivarajan 👋
+## Identity Systems and Access Strategy
 
-Microsoft MVP specializing in Identity and Access Management, with deep experience in Active Directory, Microsoft Entra ID, and enterprise infrastructure.
+Microsoft MVP, Identity and Access Management professional, and technology strategist focused on designing and securing enterprise identity platforms across IAM systems and technologies.
 
----
-
-## 🧠 About Me
-
-I focus on designing, securing, and managing identity platforms across on-premises and cloud environments.  
-My work centers around simplifying complex identity systems and building practical tools for real-world administration.
+Work centers on improving visibility, security, and operational efficiency in identity systems through practical tooling and structured approaches.
 
 ---
 
-## 🔧 What I Work On
+## Canvas Series
 
-- Active Directory architecture and administration  
-- Microsoft Entra ID (Azure AD) environments  
-- Identity security and delegation  
-- PowerShell automation and tooling  
-- Enterprise infrastructure and migrations  
+A set of tools and concepts designed to provide clarity, visibility, and structured understanding of identity systems across on-premises and cloud environments.
 
----
+- **ADCanvas**  
+  Visualization and documentation of Active Directory environments, including structure, relationships, and operational context.
 
-## 🚀 Featured Projects
+- **EntraIDCanvas**  
+  Visualization and documentation of Microsoft Entra ID environments, focusing on identities, roles, and access relationships.
 
-### 🔹 ADCanvas
-Visualizing and documenting Active Directory environments.
+- **DelegationCanvas**  
+  Analysis of delegated permissions across Active Directory organizational units, including identification of explicit access and potential risks.
 
-### 🔹 EntraIDCanvas
-Visualizing and documenting Microsoft Entra ID environments.
+- **ZeroTrustCanvas**  
+  Conceptual mapping of Zero Trust architecture within identity systems, highlighting access boundaries, controls, and policy enforcement.
 
-### 🔹 Scripts
-Collection of administrative and automation scripts for real-world environments.
-
-### 🔹 AD Delegation Report *(in progress)*
-Tool for identifying and analyzing delegated permissions across Active Directory OUs.
-
----
-
-## 🎯 Focus Areas
-
-- Identity and access management  
-- Directory services (AD / Entra ID)  
-- Security and privilege analysis  
-- Automation and operational efficiency  
-
----
-
-## 📊 Current Work
-
-- Building delegation and identity audit tools  
-- Improving visibility into AD and Entra environments  
-- Developing reusable admin toolkits  
-
----
-
-## 🔗 Connect With Me
-
-- LinkedIn: (add your link)
-- Website: (add your site)
-- Microsoft MVP Profile: https://mvp.microsoft.com/en-US/mvp/profile/77ba70c0-3c9a-e411-93f2-9cb65495d3c4  
-
----
-
-## 💡 Notes
-
-This GitHub is focused on practical tools, scripts, and solutions for identity and infrastructure professionals.  
-More projects and improvements are added continuously.
-
----
+- **NHICanvas**  
+  Visibility and analysis of Non-Human Identities (service accounts, applications, and automation identities), focusing on access, usage, and security posture.
