@@ -26,4 +26,4 @@ A set of tools and concepts designed to provide clarity, visibility, and structu
   Visibility and analysis of Non-Human Identities (service accounts, applications, and automation identities), focusing on access, usage, and security posture.
 
 - **AttackPathCanvas**  
-  Visualize identity attack paths in Active Directory — map privilege escalation routes, lateral movement risks, and credential exposure chains.
+  Visualize identity attack paths in Active Directory, map privilege escalation routes, lateral movement risks, and credential exposure chains.
