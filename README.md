@@ -1,8 +1,8 @@
 ## Identity Systems and Access Strategy
 
-Microsoft MVP, Identity and Access Management professional, and technology strategist focused on designing and securing enterprise identity platforms across IAM systems and technologies.
+Microsoft MVP, Identity and Access Management professional, and technology strategist focused on designing and securing enterprise identity platforms across modern IAM systems and technologies.
 
-Work centers on improving visibility, security, and operational efficiency in identity systems through practical tooling and structured approaches.
+Recognized for sustained community contributions, including authoring technical content, publishing practical solutions, and enabling professionals to solve real-world identity and infrastructure challenges.
 
 ---
 
