@@ -2,7 +2,7 @@
 
 Microsoft MVP, Identity and Access Management professional, and technology strategist focused on designing and securing enterprise identity platforms across modern IAM systems and technologies.
 
-Recognized for sustained community contributions, including authoring technical content, publishing practical solutions, and enabling professionals to solve real-world identity and infrastructure challenges.
+Recognized for sustained community contributions, including authoring technical content, publishing practical solutions, and enabling professionals to solve real-world identity and security challenges.
 
 ---
 
