@@ -1,29 +1,30 @@
-## Identity and Access Management Professional
-
-Microsoft MVP, Identity and Access Management professional, and technology strategist focused on designing and securing enterprise identity platforms across modern IAM systems and technologies.
-
-Recognized for sustained community contributions, including authoring technical content, publishing practical solutions, and enabling professionals to solve real-world identity and security challenges.
-
----
-
-## Canvas Series
+## The "Canvas" Tool Series
 
 A set of tools and concepts designed to provide clarity, visibility, and structured understanding of identity systems across on-premises and cloud environments.
 
 - **ADCanvas**  
-  Visualization and documentation of Active Directory environments, including structure, relationships, and operational context.
+  Visualize Active Directory environments, including structure, relationships, and operational context.
 
 - **EntraIDCanvas**  
-  Visualization and documentation of Microsoft Entra ID environments, focusing on identities, roles, and access relationships.
+  Visualize Microsoft Entra ID environments, focusing on identities, roles, and access relationships.
 
 - **DelegationCanvas**  
-  Analysis of delegated permissions across Active Directory organizational units, including identification of explicit access and potential risks.
+  Visualize delegated permissions across Active Directory organizational units, including identification of explicit access and potential risks.
 
 - **ZeroTrustCanvas**  
-  Conceptual mapping of Zero Trust architecture within identity systems, highlighting access boundaries, controls, and policy enforcement.
+  Visualize Zero Trust architecture within identity systems, highlighting access boundaries, controls, and policy enforcement.
 
 - **NHICanvas**  
-  Visibility and analysis of Non-Human Identities (service accounts, applications, and automation identities), focusing on access, usage, and security posture.
+  Visualize Non-Human Identities (service accounts, applications, and automation identities), focusing on access, usage, and security posture.
 
 - **AttackPathCanvas**  
-  Visualize identity attack paths in Active Directory, map privilege escalation routes, lateral movement risks, and credential exposure chains.
+  Visualize identity attack paths in Active Directory, mapping privilege escalation routes, lateral movement risks, and credential exposure chains.
+
+- **M365Canvas**  
+  Visualize Microsoft 365 environments, including Exchange Online, SharePoint, OneDrive, Teams, and security configurations such as DLP policies and sensitivity labels.
+
+- **DefenderCanvas**  
+  Visualize Microsoft Defender security posture across Endpoint, Identity, Office 365, and Cloud Apps, including threat policies and detection coverage.
+
+- **IntuneCanvas**  
+  Visualize Microsoft Intune environments, including device policies, compliance status, application deployments, configuration profiles, and enrollment settings.
