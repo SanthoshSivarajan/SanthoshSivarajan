@@ -1,5 +1,5 @@
-## Canvas → "Understand your identity system"
-## Atlas → "See your identity system"
+Canvas → "Understand your identity system"
+Atlas → "See your identity system"
 
 ## The "Canvas" Tool Series
 
