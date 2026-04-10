@@ -1,3 +1,10 @@
+## Identity Systems and Access Strategy
+
+Focused on identity systems, access strategy, and building practical tools for visibility, security, and operational clarity.
+
+Microsoft MVP, Identity and Access Management professional, and technology strategist focused on designing and securing enterprise identity platforms across modern IAM systems and technologies.
+
+Recognized for long-standing contributions to the technical community, including publishing articles, authoring books, and delivering practical solutions that help professionals address real-world identity and infrastructure challenges.
 ## Platform Approach
 
 - **Canvas** → understanding and analysis  
