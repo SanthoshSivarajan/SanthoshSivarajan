@@ -1,4 +1,4 @@
-## Identity Systems and Access Strategy
+## Identity and Access Management
 
 Focused on identity systems, access strategy, and building practical tools for visibility, security, and operational clarity.
 
