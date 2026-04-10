@@ -1,5 +1,7 @@
-Canvas → "Understand your identity system"
-Atlas → "See your identity system"
+## Platform Approach
+
+- **Canvas** → understanding and analysis  
+- **Atlas** → structure and mapping
 
 ## The "Canvas" Tool Series
 
