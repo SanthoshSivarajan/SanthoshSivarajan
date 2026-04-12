@@ -1,14 +1,45 @@
-## Identity and Access Management
+## Identity Visualization and Mapping Platform
 
-Focused on identity systems, access strategy, and building practical tools for visibility, security, and operational clarity.
+This concept, set of ideas, and tools are designed to provide clarity, visibility, and understanding of identity systems across on-premises and cloud environments.  
 
-Microsoft MVP, Identity and Access Management professional, and technology strategist focused on designing and securing enterprise identity platforms across modern IAM systems and technologies.
+Each tool is implemented as a single PowerShell script and produces a self-contained HTML output. There are no external dependencies or additional components required, which differentiates these tools from many traditional solutions.
 
-Recognized for long-standing contributions to the technical community, including publishing articles, authoring books, and delivering practical solutions that help professionals address real-world identity and infrastructure challenges.
-## Platform Approach
+The platform is organized into two primary tool series: the **Canvas Series** and the **Atlas Series**.  
 
-- **Canvas** → understanding and analysis  
-- **Atlas** → structure and mapping
+Additional tools and content are continuously being migrated from my personal site (https://portal.sivarajan.com/) to GitHub, where they will be maintained and enhanced over time.
+
+---
+
+## Platform Overview
+
+- **Canvas Series**  
+  Focused on understanding and analysis. Canvas tools provide structured visibility into identity systems, highlighting relationships, configurations, and areas that require attention.
+
+- **Atlas Series**  
+  Focused on structure and mapping. Atlas tools generate clear, point-in-time representations of environments, providing an accurate view of how systems are configured without interpretation or scoring.
+
+---
+
+## Key Difference
+
+- **Canvas** → Understand the environment  
+- **Atlas** → See the environment  
+
+Canvas helps interpret and analyze identity systems.  
+Atlas provides a direct, unfiltered view of structure and configuration.
+
+---
+
+## Getting Started
+
+Each tool in the Canvas and Atlas series is designed to be used independently.
+
+1. Select the area you want to explore (Active Directory, Entra ID, Microsoft 365, etc.)  
+2. Choose the appropriate tool:  
+   - Use **Canvas** tools for analysis and insight  
+   - Use **Atlas** tools for mapping and structure  
+3. Run the tool in your environment  
+4. Review the generated output (HTML reports, visualizations, or structured data)
 
 ## The "Canvas" Tool Series
 
